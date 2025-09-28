@@ -1,0 +1,44 @@
+1)
+{
+  "question": "What do I need to do to cancel a reservation?",
+  "top": 2,
+  "scoreThreshold": 20,
+  "strictFilters": [
+    {
+      "name": "category",
+      "value": "api"
+    }
+  ]
+}
+
+2)
+{
+  "answers": [
+    {
+      "score": 27.74823341616769,
+      "id": 20,
+      "answer": "Call us on 555 123 4567 to cancel a reservation.",
+      "questions": [
+        "How can I cancel a reservation?"
+      ],
+      "metadata": [
+        {
+          "name": "category",
+          "value": "api"
+        }
+      ]
+    }
+  ]
+}
+
+3)
+{
+    "synonyms": [
+        {
+            "alterations": [
+                "reservation",
+                "booking"
+                ]
+        }
+    ]
+}
